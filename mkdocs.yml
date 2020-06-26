@@ -1,0 +1,13 @@
+site_name: Windhover Labs Documentation
+nav:
+    - Home: index.md
+    - About: about.md
+    - Test: 
+        - 'A': 'test/a/tests.md'
+        - 'B': 'test/b/tests.md'
+#this theme stuff will take a long while but this is the location for it 
+theme: # readthedocs
+    #  name: null
+    #  custom_dir: 'custom_theme/'
+site_description: this is a test and hopefully it works #this did work
+site_author: marybeth goundry #this also worked (located in page source code))
